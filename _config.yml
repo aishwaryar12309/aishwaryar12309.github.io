@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Aishwarya Rajapur"
 title_separator          : "-"
 name                     : &name "Aishwarya Rajapur"
-description              : &description "somewhere between data engineer, data analyst and software engineer"
+description              : &description "desc"
 url                      : https://aishwaryar12309.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aishwaryar12309/aishwaryar12309.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Aishwarya Rajapur"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "between data engineer, data analyst and software engineer"
+  location         : #
+  employer         : #
   uri              : # URL
   email            : "arjun.aishwarya@gmail.com" 
 
