@@ -21,7 +21,10 @@ Skills 💻
 
 **Analytics & Visualization:** Tableau, Looker, Streamlit, PowerBI
 
-**Certifications:** AWS Developer Associate 
+**Certifications:** 
+
+* AWS Developer Associate 
+* Linux and Bash for Data Engineering - [Certificate](https://coursera.org/verify/6V4IVZE8ITB1)
 
 Personal Projects
 -----
