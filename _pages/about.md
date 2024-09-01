@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi 👋 I am Aishwarya and I love to learn. I studied Computer Science and Economics at UMass Amherst. I have professional experience in data management, data remediation and workflow design. I am also interested in 3D computer graphics, electrical circuit design, parallel computation and machine learning. 
+Hi 👋 I am Aishwarya and I love to learn. I studied Computer Science and Economics at UMass Amherst. I have professional experience in data management, data remediation, and workflow design. I am also interested in 3D computer graphics, electrical circuit design, parallel computation, and machine learning. 
 
 Skills 💻
 ------
