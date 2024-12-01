@@ -27,11 +27,23 @@ Skills 💻
 * Linux and Bash for Data Engineering - [Certificate](https://coursera.org/verify/6V4IVZE8ITB1)
 * IBM Machine Learning with Apache Spark - [Certificate](https://www.coursera.org/account/accomplishments/certificate/QNTFJEP9WV4C)
 
-Personal Projects
+Projects
 -----
+**DeepLearning.AI Data Engineering Capstone:** *AWS Glue, Apache Iceberg, Redshift, Terraform, dbt, Airflow*
+
+Extracted and transformed semi-structured data from Spotify API and relational data from operational databases. Developed a 3-tier data lake, using Iceberg for transformation, Redshift Spectrum and dbt for serving, and Glue and Terraform for orchestration
+
+**DataOps Bastion Host Implementation:** *AWS - EC2, RDS, Cloud9, Route 53, Terraform*
+
+Configured private subnets for data resources and public subnets for the bastion host. Utilized NAT Gateway for internet access. Created corresponding SSH key pairs for the bastion host's connectivity. Configured security groups to ensure proper access.
+
+**Streaming Queries with Flink:** *Apache Flink, Apache Zeppelin, AWS Managed Streaming for Kafka (MSK)*
+
+Sourced MSK topic to query and transform data in Zeppelin. Created UDFs for generating stock ticker data
+
 **Central Logging Monitor:** *React, Cypress, SpringBoot*
 
-Served as an integration liaison for a workflow monitoring tool, allowing drill-down functionality for ISO New England
+Served as an integration liaison for a workflow monitoring tool, allowing drill-down functionality for ISO New England. Wrote integration tests with Cypress, covering page routing and redirects
 
 **Space Rock:** *THREE.js*
 
