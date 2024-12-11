@@ -26,6 +26,8 @@ Skills 💻
 * AWS Developer Associate 
 * Linux and Bash for Data Engineering - [Certificate](https://coursera.org/verify/6V4IVZE8ITB1)
 * IBM Machine Learning with Apache Spark - [Certificate](https://www.coursera.org/account/accomplishments/certificate/QNTFJEP9WV4C)
+* Meta Backend Development: APIs - [Certificate](https://www.coursera.org/account/accomplishments/verify/NESS762OBSY2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+* DeepLearning.AI Data Modeling, Transformation and Serving - [Certificate](https://coursera.org/share/79c3537a89f460390cd504d589169d71)
 
 Projects
 -----
