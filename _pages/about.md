@@ -17,6 +17,8 @@ Skills 💻
 
 **ETL & Data Managament:** Snowflake, dbt, Dataiku, Airflow, Hadoop, Spark, MongoDB
 
+**MLOps:** Run.AI, TFX
+
 **Cloud & Tools:** Azure, AWS, Git, REST APIs, GraphQL
 
 **Analytics & Visualization:** Tableau, Looker, Streamlit, PowerBI
