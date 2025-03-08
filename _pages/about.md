@@ -13,11 +13,11 @@ Skills 💻
 ------
 **Languages:** Python, Javascript, Java, C, C++, SQL, Bash, Ruby
 
-**Frameworks:** .NET, Spring, React, Node, Express
+**Frameworks:** Spring, React, Node, Express
 
 **ETL & Data Managament:** Snowflake, dbt, Dataiku, Airflow, Hadoop, Spark, MongoDB
 
-**MLOps:** Run.AI, TFX
+**MLOps:** Run.AI, TFX, MLFlow
 
 **Cloud & Tools:** Azure, AWS, Git, REST APIs, GraphQL
 
@@ -37,6 +37,10 @@ Skills 💻
 
 Projects
 -----
+**Scents and Sensibility: Fragrance Recommendation:** *AWS Sagemaker, TensorFlow, Sklearn, Selenium*
+
+Scraped data from fragrantica.com about fragrances. Normalized and cleaned data by aggregating customer ratings of the fragrance. Computed fragrance similarity using top, middle, and base notes. Used Sagemaker to deploy an inference pipeline into production. Monitored metrics on Sagemaker.
+
 **DeepLearning.AI Data Engineering Capstone:** *AWS Glue, Apache Iceberg, Redshift, Terraform, dbt, Airflow*
 
 Extracted and transformed semi-structured data from Spotify API and relational data from operational databases. Developed a 3-tier data lake, using Iceberg for transformation, Redshift Spectrum and dbt for serving, and Glue and Terraform for orchestration
