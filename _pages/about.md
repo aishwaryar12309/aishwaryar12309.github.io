@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi 👋 I am Aishwarya and I love to learn. I studied Computer Science and Economics at UMass Amherst. I have professional experience in data management, data remediation, and workflow design. I am also interested in 3D computer graphics, electrical circuit design, parallel computation, and machine learning. 
+Hi 👋 I am Aishwarya and I love to learn. I studied Computer Science and Economics at UMass Amherst. I have professional experience in data management, data remediation, and workflow design. 
 
 Skills 💻
 ------
@@ -37,6 +37,11 @@ Skills 💻
 
 Projects
 -----
+**ResNet50 Applications: Sidewalk Cracks:** *Keras, PyTorch*
+
+Utilized pre-trained ResNet50 with ImageNet weights to build a classifier to detect whether a given image of a sidwalk contains a crack. 
+
+
 **Scents and Sensibility: Fragrance Recommendation:** *AWS Sagemaker, TensorFlow, Sklearn, Selenium*
 
 Scraped data from fragrantica.com about fragrances. Normalized and cleaned data by aggregating customer ratings of the fragrance. Computed fragrance similarity using top, middle, and base notes. Used Sagemaker to deploy an inference pipeline into production. Monitored metrics on Sagemaker.
@@ -57,6 +62,3 @@ Sourced MSK topic to query and transform data in Zeppelin. Created UDFs for gene
 
 Served as an integration liaison for a workflow monitoring tool, allowing drill-down functionality for ISO New England. Wrote integration tests with Cypress, covering page routing and redirects
 
-**Space Rock:** *THREE.js*
-
-Using THREE.js to render a spinnable planet with webGL components 🪐
