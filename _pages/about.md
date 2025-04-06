@@ -7,21 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-Hi 👋 I am Aishwarya and I love to learn. I studied Computer Science and Economics at UMass Amherst. I have professional experience in data management, data remediation, and workflow design. 
+Hi 👋 I am Aishwarya and I love to learn. I studied Computer Science and Economics at UMass Amherst. I have professional experience in data science, data management, building data pipelines, and curating creative visualizations. 
+
+I like to read about research in machine learning and computation. I love to write content for a general technical audience on my [blog][https://medium.com/@platform-10]. My goal is to explain concepts, model architecture, performance, and takeaways in a simpler way.
 
 Skills 💻
 ------
-**Languages:** Python, Javascript, Java, C, C++, SQL, Bash, Ruby
+**Languages:** Python, Javascript, Java, C, SQL, Bash
 
-**Frameworks:** Spring, React, Node, Express
+**Frameworks:** Spring, React, Node
 
-**ETL & Data Managament:** Snowflake, dbt, Dataiku, Airflow, Hadoop, Spark, MongoDB
+**ETL & Data Managament:** Snowflake, dbt, Airflow, Hadoop, Spark
 
-**MLOps:** Run.AI, TFX, MLFlow
+**MLOps:** Run.AI, TFX
 
-**Cloud & Tools:** Azure, AWS, Git, REST APIs, GraphQL
+**Cloud & Tools:** Azure (Document Intelligence, Blob Storage), AWS (Kinesis, Redshift, S3, Sagemaker)
 
-**Analytics & Visualization:** Tableau, Looker, Streamlit, PowerBI
+**Analytics & Visualization:** Tableau, Streamlit, PowerBI
 
 
 **DeepLearning.AI Certifications**:
