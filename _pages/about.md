@@ -17,7 +17,7 @@ Skills 💻
 
 **Frameworks:** Spring, React, Node
 
-**ETL & Data Managament:** Snowflake, dbt, Airflow, Hadoop, Spark
+**ETL & Data Managament:** Snowflake ❄️, dbt, Airflow, Hadoop, Spark
 
 **MLOps:** Run.AI, TFX
 
