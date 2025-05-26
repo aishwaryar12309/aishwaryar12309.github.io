@@ -9,7 +9,7 @@ redirect_from:
 
 Hi 👋 I am Aishwarya and I love to learn. I studied Computer Science and Economics at UMass Amherst. I have professional experience in data science, data management, building data pipelines, and curating creative visualizations. 
 
-I like to read about research in machine learning and computation. I love to write content for a general technical audience on my [blog](https://medium.com/@platform-10). My goal is to explain concepts, model architecture, performance, and takeaways in a simpler way.
+I like to read about research in machine learning and computation. I love to write content for a general technical audience on my [blog](https://medium.com/@platform-10). My goal is to explain concepts, model architecture, performance, and takeaways in a simpler way. I also like to make keychains out of old CPUs and other PCBs.
 
 Skills 💻
 ------
