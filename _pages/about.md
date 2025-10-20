@@ -39,14 +39,6 @@ Skills 💻
 
 Projects
 -----
-**ResNet50 Applications: Sidewalk Cracks:** *Keras, PyTorch*
-
-Utilized pre-trained ResNet50 with ImageNet weights to build a classifier to detect whether a given image of a sidwalk contains a crack. 
-
-
-**Scents and Sensibility: Fragrance Recommendation:** *AWS Sagemaker, TensorFlow, Sklearn, Selenium*
-
-Scraped data from fragrantica.com about fragrances. Normalized and cleaned data by aggregating customer ratings of the fragrance. Computed fragrance similarity using top, middle, and base notes. Used Sagemaker to deploy an inference pipeline into production. Monitored metrics on Sagemaker.
 
 **DeepLearning.AI Data Engineering Capstone:** *AWS Glue, Apache Iceberg, Redshift, Terraform, dbt, Airflow*
 
