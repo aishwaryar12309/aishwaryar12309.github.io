@@ -31,14 +31,13 @@ Skills 💻
 * Machine Learning in Production - [Certificate](https://coursera.org/share/077f5d5935bd3daafb890ebf1f739dd3)
 * Data Modeling, Transformation and Serving - [Certificate](https://coursera.org/share/79c3537a89f460390cd504d589169d71)
 
-**Other Certifications**
-* Linux and Bash for Data Engineering - [Certificate](https://coursera.org/verify/6V4IVZE8ITB1)
-* IBM Machine Learning with Apache Spark - [Certificate](https://www.coursera.org/account/accomplishments/certificate/QNTFJEP9WV4C)
-* Meta Backend Development: APIs - [Certificate](https://www.coursera.org/account/accomplishments/verify/NESS762OBSY2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-
 
 Projects
 -----
+
+**Hanabi-LLM Multi-Agent:**
+
+Built a council-based multi-agent LLM system for the cooperative, imperfect-information game Hanabi, drawing on the LLM-Hanabi: [Evaluating Multi-Agent Gameplays with Theory-of-Mind and Rationale Inference in Imperfect Information Collaboration Game](https://www.alphaxiv.org/abs/2510.04980) benchmark (Liang et al., 2025). The approach decomposes decision-making into specialized agents for playing, hinting, and discarding, each performing probabilistic belief updates over hidden card states using Bayesian reasoning from public observations, hints, and discard information. It also implements deterministic greedy strategies such as maximizing clue efficiency and protecting critical cards to support controlled comparisons and strategy evaluation. An orchestrator coordinates agent execution, while a final decision agent aggregates structured recommendations and confidence scores to choose actions under uncertainty. The system is implemented in Python on DeepMind’s Hanabi Learning Environment with configurable OpenAI-compatible LLM backends.
 
 **DeepLearning.AI Data Engineering Capstone:** *AWS Glue, Apache Iceberg, Redshift, Terraform, dbt, Airflow*
 
@@ -47,10 +46,6 @@ Extracted and transformed semi-structured data from Spotify API and relational d
 **DataOps Bastion Host Implementation:** *AWS - EC2, RDS, Cloud9, Route 53, Terraform*
 
 Configured private subnets for data resources and public subnets for the bastion host. Utilized NAT Gateway for internet access. Created corresponding SSH key pairs for the bastion host's connectivity. Configured security groups to ensure proper access.
-
-**Streaming Queries with Flink:** *Apache Flink, Apache Zeppelin, AWS Managed Streaming for Kafka (MSK)*
-
-Sourced MSK topic to query and transform data in Zeppelin. Created UDFs for generating stock ticker data
 
 **Central Logging Monitor:** *React, Cypress, SpringBoot*
 
