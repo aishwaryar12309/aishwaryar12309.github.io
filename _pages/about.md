@@ -39,6 +39,8 @@ Projects
 
 Built a council-based multi-agent LLM system for the cooperative, imperfect-information game Hanabi, drawing on the LLM-Hanabi: [Evaluating Multi-Agent Gameplays with Theory-of-Mind and Rationale Inference in Imperfect Information Collaboration Game](https://www.alphaxiv.org/abs/2510.04980) benchmark (Liang et al., 2025). The approach decomposes decision-making into specialized agents for playing, hinting, and discarding, each performing probabilistic belief updates over hidden card states using Bayesian reasoning from public observations, hints, and discard information. It also implements deterministic greedy strategies such as maximizing clue efficiency and protecting critical cards to support controlled comparisons and strategy evaluation. An orchestrator coordinates agent execution, while a final decision agent aggregates structured recommendations and confidence scores to choose actions under uncertainty. The system is implemented in Python on DeepMind’s Hanabi Learning Environment with configurable OpenAI-compatible LLM backends.
 
+[Repository Here](https://github.com/tanayvenkata/hanabi)
+
 **DeepLearning.AI Data Engineering Capstone:** *AWS Glue, Apache Iceberg, Redshift, Terraform, dbt, Airflow*
 
 Extracted and transformed semi-structured data from Spotify API and relational data from operational databases. Developed a 3-tier data lake, using Iceberg for transformation, Redshift Spectrum and dbt for serving, and Glue and Terraform for orchestration
